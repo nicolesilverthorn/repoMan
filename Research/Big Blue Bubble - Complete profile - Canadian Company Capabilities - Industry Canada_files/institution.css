@@ -1,0 +1,264 @@
+/* Application styles */
+
+ul.noStyleList li{
+ 	display: inline;
+ }
+ 
+ /*	The basic CCC table
+*/
+table.cccTable  {
+	color: #000000;
+	background-color: #ffffff;
+	width:100%;
+	border-spacing:0;
+	border: 1px solid #336699;
+	padding:0;
+}
+
+table.unlined {
+	width:100%;
+	border: 0;
+	padding:5px;
+	border-style:none;
+	border-width:0;
+}
+
+li.resultLight
+{
+color: #000000;
+background-color: #eeeeee;
+padding: 3px;
+margin-bottom: 20px;
+}
+
+/*USED IN APPLICATION - DO NOT REMOVE */
+.dummy {
+  display: none;
+}
+td.resultDark {
+  color: #000000;
+  background-color: #cecece;
+  line-height: 1.3em;
+  font-weight: bold;
+  padding-left: 5px;
+}
+td.resultLight {
+  color: #000000;
+  background-color: #eeeeee;
+  line-height: 1.3em;
+  padding-left: 5px;
+}
+td.dirLight {
+  background-color:#eeeeee; 
+  color:#000000;
+}
+td.dirDark {
+  font-weight:bold;
+  background-color:#CC0000;
+  color:#ffffff;
+}
+input.expandButton {
+  background-color: transparent;
+  background-image: url(/eic/site/ccc-rec.nsf/vwimages/icon_plusfolder.gif/$file/icon_plusfolder.gif); /* Needs to be hardcoded since it is used in the application */
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  width:33px;
+  font-size: 0px;
+  color:#FFFF99 ;
+  padding:0 !important;
+  margin:0 !important;
+  min-height:14px;
+}
+input.expandButton[type="submit"]:hover, input.expandButton[type="submit"]:focus {
+background-color: transparent;
+  background-image: url(/eic/site/ccc-rec.nsf/vwimages/icon_plusfolder.gif/$file/icon_plusfolder.gif); /* Needs to be hardcoded since it is used in the application */
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  width:33px;
+  min-height:14px;
+  font-size: 0px;
+  color:#FFFF99 ;
+  box-shadow:none;
+  padding:0 !important;
+  margin:0 !important;
+}
+input.btnCllpse {
+  box-shadow:none;
+  padding:0;
+  margin:0;
+}
+#cn-centre-col-inner -inner table th, .center table th {
+  font-weight: bold;
+  text-align: center;
+}
+#cn-centre-col-inner -inner table .linedTopAndBottom, .center table .linedTopAndBottom{
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+#cn-centre-col-inner -inner table td.lined, #cn-centre-col-inner -inner table.lined,
+.center table td.lined, .center table.lined {
+  border-bottom: 1px solid #ccc;
+}
+#cn-centre-col-inner -inner h2.boxName,
+.center h2.boxName{
+  color: #FFF;
+  background-color: #369;
+  margin: 3px 0px;
+  padding: 2px;
+  padding-left: 5px;
+}
+#cn-centre-col-inner -inner h3.boxHeader,
+.center h3.boxHeader {
+  color: #000;
+  background-color: #CCC;
+  margin: 10px 0px;
+  padding: 2px;
+  padding-left: 5px;
+}
+#cn-centre-col-inner -inner td.contactLine,
+.center td.contactLine {
+  border-bottom: 1px solid #369;
+}
+hr.seperatorLine{
+  border: none 0; 
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #efefef;
+  width: 100%;
+  height: 2px;
+  margin: 10px auto 0 0;
+  text-align: left;
+}
+tr.row {
+  background-color: #CCCCCC;
+} 
+div.estblmtLst {
+  width:580px;
+  border:.1em black solid;
+  height:15em;
+  overflow:auto;
+  margin-left: 7em;
+}
+div.marginLeftEstblmtLst {
+  margin-left: 10em;
+}
+a.black {
+  color: black;
+}
+.lang {
+  color:#003366;
+  font-weight:bold;
+}
+.cccsubheading {
+  background-color: #336699;
+  color: #fff;
+  font-weight: bold;
+  padding: 3px;
+  width: 760px;
+}
+.cccsubheading2 {
+  background-color: #CCC;
+  color: #000;
+  font-weight: bold;
+  padding: 3px;
+}
+.ccctextindent {
+  text-indent: 2em;
+}
+.cccmarginleft2em {
+  margin-left: 2em;
+}
+.cccmarginleft4em {
+  margin-left: 4em;
+}
+.underline {
+  text-decoration: underline;
+}
+div.floatLeft {
+  float: left;
+}
+#cn-centre-col-inner a.bckgrdLnk:link,
+.center a.bckgrdLnk:link {
+  color: white;
+}
+#cn-centre-col-inner a.bckgrdLnk:visited,
+.cetner a.bckgrdLnk:visited  {
+  color: white;
+}
+h3.nav {
+  font-size: 95%;
+}
+div.cn-left-col-default li.menucontent{
+  list-style-type: none;
+  list-style: none;
+  display: block;
+  padding: 0px;
+  margin: 0px;
+  line-height: 0px;
+  background-color: #FFF;
+}
+div.right div.rightSS .style3 
+div.right div.rightSS a.style5, div.rightSS .style5 a:visited{ color: #FFFFFF; font-weight: bold; }
+div.right div.rightSS a.style6, div.rightSS .style6 a:visited { color: #000099; font-weight: bold; }
+.rightSS{ padding-top: 7px; padding-bottom: 0px; margin-bottom:0px; background-color: #ffffff; }
+.Rcolour4, .Scolour4, .Ucolour4, .Bcolour4 { padding:0px; margin-bottom:7px; padding-left: 5px; padding-bottom:5px; padding-top:5px; margin-top:0px; }
+.Rcolour4{ background-color:#FF9900; color:#FFFFFF; }
+.Scolour4{ background-color:#336699; color:#FFFFFF; }
+.Ucolour4{ background-color:#CC0000; color:#FFFFFF; }
+.Bcolour4{ background-color:#003366; color:#FFFFFF; }
+td.dirLight {background-color:#eeeeee; color:#000000;}
+td.dirDark {font-weight:bold; background-color:#003366; color:#ffffff;}
+
+table.layoutTable {
+	padding-left:0;
+	margin-left:0;
+	margin-right:0;
+	border: none;
+}
+table.layoutTable td, table.layoutTable table.layoutTable td {
+	padding-left: 0 !important;
+	margin-left:0 !important;
+	margin-right:0 !important;
+}
+table.layoutTable table.layoutTable {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+input[type="submit"],input[type="reset"],input[type="button"], .noMargin {
+	margin-top:0px;
+}
+
+
+.vnavNextPreviousLink {
+	margin-left:5px;
+	padding:2px 8px;
+	border:solid 1px #dddddd;
+	background:#fff;
+}
+.vnavCurrent {
+	padding:2px 8px;
+	border:solid 1px #dddddd;
+	font-weight:bold;
+	vertical-align:top;
+	background:#ffffff;
+	color:#000000;
+	height: 100px;
+}
+a.vnavNextPreviousLink {
+	background-color: #ffffff;
+}
+#cn-centre-col-inner a.vnavNextPreviousLink:visited:hover, #cn-centre-col-inner a.vnavNextPreviousLink:hover, #cn-centre-col-inner a.vnavNextPreviousLink:active, #cn-centre-col-inner a.vnavNextPreviousLink:visited:hover, #cn-centre-col-inner a.vnavNextPreviousLink:hover, #cn-centre-col-inner a.vnavNextPreviousLink:active {
+	color: #ffffff;
+	background-color: #23447E;
+	border-color: #ffffff;
+}
+
+
+/* Custom End */
