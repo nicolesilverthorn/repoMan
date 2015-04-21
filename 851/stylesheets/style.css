@@ -10,10 +10,7 @@ a:hover { color: #8D0000; }
 a:focus { color: #750000; outline: none; }
 p a,p a:visited { line-height: inherit }
 img {border:0px;}
-#googlemap img,object,embed { max-width: none }
-#map_canvas embed { max-width: none }
-#map_canvas img { max-width: none }
-#map_canvas object { max-width: none }
+
 /* Reset for strange margins by default on <figure> elements */
 figure { margin: 0 }
 /* Base Type Styles Using Modular Scale ---------------------- */
@@ -739,7 +736,7 @@ a:focus { outline: none }
 .bread { font-family: DroidSansRegular; margin-top: 8px; font-size: 16px !important; }
 .topborder { border-top: 4px solid }
 .header { height: 80px }
-.logo { margin-top: 34px;margin-bottom: 30px; background-image:url('../images/background.png');margin-left:65px;}
+.logo { margin-top: 34px;margin-bottom: 30px; background-image:url('../images/background.png');margin-left:20%;}
 .logo h4 { font-size: 27px }
 .hr { height: 36px }
 .name { display: none }
