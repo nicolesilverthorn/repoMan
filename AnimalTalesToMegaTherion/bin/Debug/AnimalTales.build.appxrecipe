@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEXS</Machine>
+    <WindowsUser>TzL</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>31df436b-ee63-4daf-976f-782ceaca8eec</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\bin\Debug\AnimalTales.exe">
+      <PackagePath>AnimalTales.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\AnimalStoryLogo.png">
+      <PackagePath>Images\AnimalStoryLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\buglseaf.png">
+      <PackagePath>Images\buglseaf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\Caption.png">
+      <PackagePath>Images\Caption.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\Froggy.png">
+      <PackagePath>Images\Froggy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\LionZion.png">
+      <PackagePath>Images\LionZion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\LionZionCryin.png">
+      <PackagePath>Images\LionZionCryin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\Monkey.png">
+      <PackagePath>Images\Monkey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\Monkey1.png">
+      <PackagePath>Images\Monkey1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\MySquirrel.png">
+      <PackagePath>Images\MySquirrel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\Rabbit.png">
+      <PackagePath>Images\Rabbit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\Splasher.png">
+      <PackagePath>Images\Splasher.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\StoryBacks.png">
+      <PackagePath>Images\StoryBacks.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\tree.png">
+      <PackagePath>Images\tree.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\TurtleT.png">
+      <PackagePath>Images\TurtleT.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\WideLogo.png">
+      <PackagePath>Images\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Images\Wolf.png">
+      <PackagePath>Images\Wolf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\Audio\Child.mp3">
+      <PackagePath>Audio\Child.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TzL\Documents\Visual Studio 2013\Projects\AnimalTalesToMegaTherion\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

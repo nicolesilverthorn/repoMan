@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OWNER-PC</Machine>
+    <WindowsUser>Owner</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>0AA942E385CA4A79791E75EA2F4D5DFACB0C5ED61D4FC37B1613BDAC16ABF17A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>31df436b-ee63-4daf-976f-782ceaca8eec_1.0.0.0_x86__ckpvgz13cfhxc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>31df436b-ee63-4daf-976f-782ceaca8eec_ckpvgz13cfhxc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>31df436b-ee63-4daf-976f-782ceaca8eec</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Owner</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-10T06:09:53.919</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\bin\x86\Debug\AnimalTales.exe">
+      <PackagePath>AnimalTales.exe</PackagePath>
+      <Modified>2012-08-10T06:09:52.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\bin\x86\Debug\AnimalTales.pdb">
+      <PackagePath>AnimalTales.pdb</PackagePath>
+      <Modified>2012-08-10T06:09:52.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\AnimalStoryLogo.png">
+      <PackagePath>Images\AnimalStoryLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-19T16:55:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\buglseaf.png">
+      <PackagePath>Images\buglseaf.png</PackagePath>
+      <Modified>2012-08-10T06:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\Caption.png">
+      <PackagePath>Images\Caption.png</PackagePath>
+      <Modified>2012-07-25T04:21:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\Froggy.png">
+      <PackagePath>Images\Froggy.png</PackagePath>
+      <Modified>2012-07-19T16:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\LionZion.png">
+      <PackagePath>Images\LionZion.png</PackagePath>
+      <Modified>2012-07-25T00:13:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\LionZionCryin.png">
+      <PackagePath>Images\LionZionCryin.png</PackagePath>
+      <Modified>2012-07-20T05:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\Monkey.png">
+      <PackagePath>Images\Monkey.png</PackagePath>
+      <Modified>2012-08-09T01:16:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\Monkey1.png">
+      <PackagePath>Images\Monkey1.png</PackagePath>
+      <Modified>2012-08-10T04:03:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\MySquirrel.png">
+      <PackagePath>Images\MySquirrel.png</PackagePath>
+      <Modified>2012-07-31T21:37:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\Rabbit.png">
+      <PackagePath>Images\Rabbit.png</PackagePath>
+      <Modified>2012-08-09T01:23:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\Splasher.png">
+      <PackagePath>Images\Splasher.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-19T17:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\StoryBacks.png">
+      <PackagePath>Images\StoryBacks.png</PackagePath>
+      <Modified>2012-07-19T18:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\tree.png">
+      <PackagePath>Images\tree.png</PackagePath>
+      <Modified>2012-08-10T03:38:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\TurtleT.png">
+      <PackagePath>Images\TurtleT.png</PackagePath>
+      <Modified>2012-07-31T21:20:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\WideLogo.png">
+      <PackagePath>Images\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-19T17:42:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Images\Wolf.png">
+      <PackagePath>Images\Wolf.png</PackagePath>
+      <Modified>2012-07-31T19:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\Audio\Child.mp3">
+      <PackagePath>Audio\Child.mp3</PackagePath>
+      <Modified>2012-08-09T14:53:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\bin\x86\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-10T06:09:44.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-19T16:49:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2012\Projects\AnimalTalesSaz\AnimalTalesThanatos\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-10T06:09:53.010</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

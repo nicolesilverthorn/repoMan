@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="31df436b-ee63-4daf-976f-782ceaca8eec" Publisher="CN=Owner" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>AnimalTales</DisplayName>
+    <PublisherDisplayName>Owner</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="AnimalTales.App">
+      <VisualElements DisplayName="AnimalTales" Logo="Images\AnimalStoryLogo.png" SmallLogo="Assets\SmallLogo.png" Description="AnimalTales" ForegroundText="light" BackgroundColor="#464646" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" WideLogo="Images\WideLogo.png" />
+        <SplashScreen Image="Images\Splasher.png" BackgroundColor="#CC33FF" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.fileSavePicker">
+          <FileSavePicker>
+            <SupportedFileTypes>
+              <SupportsAnyFileType />
+            </SupportedFileTypes>
+          </FileSavePicker>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="musicLibrary" />
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="microphone" />
+  </Capabilities>
+</Package>
